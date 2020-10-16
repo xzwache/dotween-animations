@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91546b8d-02e7-4a57-a404-90bd1b671384" name="Default Changelist" comment="" />
+    <list default="true" id="91546b8d-02e7-4a57-a404-90bd1b671384" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoTweenAnimationsTask/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoTweenAnimationsTask/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoTweenAnimationsTask/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoTweenAnimationsTask/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoTweenAnimationsTask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoTweenAnimationsTask/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +41,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Buttons.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Loading icons/CircleBar.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Loading icons/BarHorizontal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cards/Cards.cs" />
       </list>
     </option>
   </component>
@@ -80,6 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602838954876</updated>
       <workItem from="1602838972811" duration="3881000" />
+      <workItem from="1602863593966" duration="1823000" />
     </task>
     <servers />
   </component>
@@ -95,6 +101,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
